@@ -32,17 +32,12 @@ export default function Home() {
          dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:dark:bg-zinc-800/30">
           Get Started
         </button>
-        {/* <div></div> */}
-        </div>
-        <div className="">
-          
         </div>
       </nav>
     </header>
     <main className="h-full container max-w-6xl mx-auto py-24 px-3 md:px-0">
       <div className="space-y-3">
         <Image
-          // className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] "
           src="/nezpay-logo.png"
           alt="Next.js Logo"
           width={180}
